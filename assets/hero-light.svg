@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title description">
+  <title id="title">Build. Observe. Refine.</title>
+  <desc id="description">Desktop tools and research software. A quiet workspace with a reading window, a checklist, and connected observation nodes.</desc>
+
+  <rect x="1" y="1" width="1198" height="208" rx="22" fill="#F6F5EF" stroke="#E2E5DB"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="64" y="59" fill="#536B52" font-size="11" font-weight="600" letter-spacing="2">DESKTOP TOOLS / RESEARCH SOFTWARE</text>
+    <text x="62" y="116" fill="#28362D" font-size="44" font-weight="500" letter-spacing="-1.5">Build. Observe. Refine.</text>
+  </g>
+  <path d="M64 153H340" fill="none" stroke="#DCE1D5"/>
+  <path d="M64 153H110" fill="none" stroke="#70876B" stroke-width="2"/>
+
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect x="724" y="41" width="250" height="134" rx="11" fill="#FDFDF8" stroke="#9CAC95" stroke-width="1.25"/>
+    <path d="M724 66H974" fill="none" stroke="#D3DACE"/>
+    <g fill="#AAB99F">
+      <circle cx="741" cy="54" r="2"/>
+      <circle cx="750" cy="54" r="2"/>
+      <circle cx="759" cy="54" r="2"/>
+    </g>
+    <rect x="951" y="51" width="7" height="6" rx="1" fill="none" stroke="#ACB9A3"/>
+
+    <path d="M790 80V159" fill="none" stroke="#E1E6DB"/>
+    <path d="M740 83H773M740 94H765M740 105H770M740 116H760" fill="none" stroke="#BCC8B3" stroke-width="2"/>
+    <path d="M740 138H767M740 149H760" fill="none" stroke="#D8DFD0" stroke-width="2"/>
+    <path d="M736 80V86" fill="none" stroke="#70876B" stroke-width="2"/>
+
+    <path d="M807 83H889" fill="none" stroke="#647D5C" stroke-width="3"/>
+    <path d="M807 96H950M807 105H939M807 114H945" fill="none" stroke="#C4CEBC" stroke-width="2"/>
+    <rect x="807" y="130" width="45" height="28" rx="4" fill="#EEF2E6" stroke="#DAE2D1"/>
+    <path d="M816 149L826 139L833 145L843 135" fill="none" stroke="#8CA17E" stroke-width="1.5"/>
+    <path d="M865 135H944M865 144H931M865 153H940" fill="none" stroke="#CBD4C3" stroke-width="2"/>
+
+    <path d="M1009 48L1060 35L1127 59M1009 48L1068 69L1127 59M1060 35L1068 69" fill="none" stroke="#B0BFA5" stroke-width="1.25"/>
+    <circle cx="1009" cy="48" r="4" fill="#F6F5EF" stroke="#829976" stroke-width="1.5"/>
+    <circle cx="1060" cy="35" r="3" fill="#ABBDA0"/>
+    <circle cx="1068" cy="69" r="3" fill="#ABBDA0"/>
+    <circle cx="1127" cy="59" r="4" fill="#F6F5EF" stroke="#829976" stroke-width="1.5"/>
+
+    <rect x="1003" y="93" width="139" height="82" rx="10" fill="#FDFDF8" stroke="#A4B39B" stroke-width="1.25"/>
+    <path d="M1018 109H1084" fill="none" stroke="#6B825F" stroke-width="2.5"/>
+    <rect x="1018" y="122" width="10" height="10" rx="2" fill="#E7EDDF" stroke="#A2B394"/>
+    <path d="M1020.5 127L1022.5 129L1026 125" fill="none" stroke="#6B825F" stroke-width="1.25"/>
+    <path d="M1039 127H1124" fill="none" stroke="#BECAB4" stroke-width="2"/>
+    <rect x="1018" y="143" width="10" height="10" rx="2" fill="none" stroke="#BCC8B2"/>
+    <path d="M1039 148H1108" fill="none" stroke="#CBD5C2" stroke-width="2"/>
+  </g>
+</svg>
