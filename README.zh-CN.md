@@ -5,11 +5,13 @@
 
 [English](README.md) · **[走进我的个人实验室 ↗](https://kennymcsimpson.github.io/)**
 
+[实验手记](https://kennymcsimpson.github.io/notes/) · [最近在做什么](https://kennymcsimpson.github.io/#now) · [RSS](https://kennymcsimpson.github.io/feed.xml)
+
 我是 Kenny。写代码、做研究，也在搭一个让知识、工具与长期记忆彼此相连的工作环境。
 
 ### 一个还在生长的 Ecosystem
 
-**Ecosystem** 把项目记忆、科研与独立评审、编码执行和工具连接串起来。**PI-Ecosystem** 是承载它们的桌面工作区，**Lyra · 喻琪** 是其中正在完善的管家与搭档。
+**Ecosystem** 把项目记忆、科研与独立评审、编码执行和工具连接串起来。**PI-Ecosystem** 是承载它们的桌面工作区，**Lyra** 是其中正在完善的管家与搭档。
 
 PI 仍在本地开发，**源码尚未公开**。可以先从[交互星图](https://kennymcsimpson.github.io/#ecosystem)看看它们如何相连。
 

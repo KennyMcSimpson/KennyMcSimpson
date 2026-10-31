@@ -5,6 +5,8 @@
 
 [中文](README.zh-CN.md) · **[Step inside my personal lab ↗](https://kennymcsimpson.github.io/)**
 
+[Field notes](https://kennymcsimpson.github.io/notes/) · [What I’m working on](https://kennymcsimpson.github.io/#now) · [RSS](https://kennymcsimpson.github.io/feed.xml)
+
 Hi, I’m Kenny. I write code, do research, and build a place where knowledge, tools, and lasting context can work together.
 
 ### A little ecosystem, still growing
