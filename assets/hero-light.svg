@@ -1,49 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title description">
-  <title id="title">Build. Observe. Refine.</title>
-  <desc id="description">Desktop tools and research software. A quiet workspace with a reading window, a checklist, and connected observation nodes.</desc>
-
-  <rect x="1" y="1" width="1198" height="208" rx="22" fill="#F6F5EF" stroke="#E2E5DB"/>
-
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="64" y="59" fill="#536B52" font-size="11" font-weight="600" letter-spacing="2">DESKTOP TOOLS / RESEARCH SOFTWARE</text>
-    <text x="62" y="116" fill="#28362D" font-size="44" font-weight="500" letter-spacing="-1.5">Build. Observe. Refine.</text>
-  </g>
-  <path d="M64 153H340" fill="none" stroke="#DCE1D5"/>
-  <path d="M64 153H110" fill="none" stroke="#70876B" stroke-width="2"/>
-
-  <g stroke-linecap="round" stroke-linejoin="round">
-    <rect x="724" y="41" width="250" height="134" rx="11" fill="#FDFDF8" stroke="#9CAC95" stroke-width="1.25"/>
-    <path d="M724 66H974" fill="none" stroke="#D3DACE"/>
-    <g fill="#AAB99F">
-      <circle cx="741" cy="54" r="2"/>
-      <circle cx="750" cy="54" r="2"/>
-      <circle cx="759" cy="54" r="2"/>
-    </g>
-    <rect x="951" y="51" width="7" height="6" rx="1" fill="none" stroke="#ACB9A3"/>
-
-    <path d="M790 80V159" fill="none" stroke="#E1E6DB"/>
-    <path d="M740 83H773M740 94H765M740 105H770M740 116H760" fill="none" stroke="#BCC8B3" stroke-width="2"/>
-    <path d="M740 138H767M740 149H760" fill="none" stroke="#D8DFD0" stroke-width="2"/>
-    <path d="M736 80V86" fill="none" stroke="#70876B" stroke-width="2"/>
-
-    <path d="M807 83H889" fill="none" stroke="#647D5C" stroke-width="3"/>
-    <path d="M807 96H950M807 105H939M807 114H945" fill="none" stroke="#C4CEBC" stroke-width="2"/>
-    <rect x="807" y="130" width="45" height="28" rx="4" fill="#EEF2E6" stroke="#DAE2D1"/>
-    <path d="M816 149L826 139L833 145L843 135" fill="none" stroke="#8CA17E" stroke-width="1.5"/>
-    <path d="M865 135H944M865 144H931M865 153H940" fill="none" stroke="#CBD4C3" stroke-width="2"/>
-
-    <path d="M1009 48L1060 35L1127 59M1009 48L1068 69L1127 59M1060 35L1068 69" fill="none" stroke="#B0BFA5" stroke-width="1.25"/>
-    <circle cx="1009" cy="48" r="4" fill="#F6F5EF" stroke="#829976" stroke-width="1.5"/>
-    <circle cx="1060" cy="35" r="3" fill="#ABBDA0"/>
-    <circle cx="1068" cy="69" r="3" fill="#ABBDA0"/>
-    <circle cx="1127" cy="59" r="4" fill="#F6F5EF" stroke="#829976" stroke-width="1.5"/>
-
-    <rect x="1003" y="93" width="139" height="82" rx="10" fill="#FDFDF8" stroke="#A4B39B" stroke-width="1.25"/>
-    <path d="M1018 109H1084" fill="none" stroke="#6B825F" stroke-width="2.5"/>
-    <rect x="1018" y="122" width="10" height="10" rx="2" fill="#E7EDDF" stroke="#A2B394"/>
-    <path d="M1020.5 127L1022.5 129L1026 125" fill="none" stroke="#6B825F" stroke-width="1.25"/>
-    <path d="M1039 127H1124" fill="none" stroke="#BECAB4" stroke-width="2"/>
-    <rect x="1018" y="143" width="10" height="10" rx="2" fill="none" stroke="#BCC8B2"/>
-    <path d="M1039 148H1108" fill="none" stroke="#CBD5C2" stroke-width="2"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Kenny — Ideas find their orbit.</title><desc id="desc">A personal lab connecting research, code, and lasting context. A constellation connects Memory, Research, Build, Tools, PI, and Lyra.</desc>
+<rect width="1280" height="360" rx="8" fill="#f4f2e9"/>
+<g fill="none" stroke="#c8d2c8"><ellipse cx="994" cy="181" rx="209" ry="130" transform="rotate(-19 994 181)"/><ellipse cx="994" cy="181" rx="136" ry="86" transform="rotate(21 994 181)" stroke-dasharray="2 7"/><path d="M994 181 868 77m126 104 130-94M994 181l170 50m-170-50 55 114m-55-114-125 104m125-104-196-5"/></g>
+<g fill="#496e3a"><circle cx="868" cy="77" r="4"/><circle cx="1124" cy="87" r="4"/><circle cx="1164" cy="231" r="4"/><circle cx="1049" cy="295" r="4"/><circle cx="869" cy="285" r="4"/><circle cx="798" cy="176" r="4"/></g>
+<g fill="#51696d" font-family="Segoe UI,Arial,sans-serif" font-size="12"><text x="832" y="61">MEMORY</text><text x="1092" y="70">RESEARCH</text><text x="1147" y="256">BUILD</text><text x="1032" y="322">TOOLS</text><text x="854" y="311">PI</text><text x="780" y="202">LYRA</text></g>
+<circle cx="994" cy="181" r="67" fill="#f4f2e9" stroke="#a4b5a0"/><g stroke="#496e3a" stroke-width="1.2"><path d="M994 132v26m-13-13h26m-22-9 18 18m0-18-18 18"/></g><text x="994" y="192" text-anchor="middle" fill="#173039" font-family="Segoe UI,Arial,sans-serif" font-size="19">Ecosystem</text><text x="994" y="214" text-anchor="middle" fill="#51696d" font-family="Segoe UI,Arial,sans-serif" font-size="10">A CONNECTED WORLD</text>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="60" y="65" fill="#496e3a" font-size="12" letter-spacing="3">KENNY / A PERSONAL LAB</text><text x="58" y="151" fill="#173039" font-size="55" font-weight="500" letter-spacing="-2">Ideas find their orbit.</text><text x="61" y="203" fill="#51696d" font-size="19">Research, code, and lasting context.</text><path d="M62 263h46" stroke="#496e3a"/><text x="121" y="268" fill="#51696d" font-size="12" letter-spacing="1.3">STILL GROWING. TAKE A LOOK AROUND.</text><text x="61" y="327" fill="#60777a" font-size="12">kennymcsimpson.github.io</text></g>
 </svg>

@@ -1,44 +1,31 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Build. Observe. Refine. — desktop tools and research software.">
+  <img src="assets/hero-light.svg" alt="Kenny — Ideas find their orbit. Research, code, and lasting context." width="100%">
 </picture>
 
-<p align="right">English · <a href="https://github.com/KennyMcSimpson/KennyMcSimpson/blob/main/README.zh-CN.md">简体中文</a></p>
+[中文](README.zh-CN.md) · **[Step inside my personal lab ↗](https://kennymcsimpson.github.io/)**
 
-# Hi, I'm Kenny.
+Hi, I’m Kenny. I write code, do research, and build a place where knowledge, tools, and lasting context can work together.
 
-I build desktop tools and research software, and contribute fixes to open source.
-My interests include scientific document understanding, agent evaluation, and reproducible experiments.
+### A little ecosystem, still growing
 
-[Desktop tools](#desktop-tools) · [Research & experiments](#research--experiments) · [Open source](#open-source)
+**Ecosystem** connects project memory, research and independent review, coding, and tools. **PI-Ecosystem** is the desktop workspace bringing these pieces together. **Lyra** is the companion taking shape inside it.
 
-## Desktop tools
+PI is in local development. Its source is **not public yet**. The [interactive map](https://kennymcsimpson.github.io/#ecosystem) is a first look at how the pieces fit.
 
-**[MoDu Reader · 墨读](https://github.com/KennyMcSimpson/modu-reader)**  
-A local Markdown reader for Windows, with math, Mermaid diagrams, and a Chinese / English interface.  
-[Download](https://github.com/KennyMcSimpson/modu-reader/releases/latest) · TypeScript / React / Electron
+### A few connections upstream
 
-**[Qingdan · 轻单](https://github.com/KennyMcSimpson/qingdan)**  
-A quiet floating to-do app for Windows, with recurring reminders and deadlines that change color as they approach.  
-[Download](https://github.com/KennyMcSimpson/qingdan/releases/latest) · JavaScript / Electron
+Small fixes, regression tests, and a little less friction in shared tools.
 
-## Research & experiments
+| Project | Merged contribution |
+| :-- | :-- |
+| Hugging Face · datasets | [Remote NIfTI decoding paths · #8737](https://github.com/huggingface/datasets/pull/8737) |
+| Microsoft · SkillOpt | [Legacy-encoded configuration handling · #304](https://github.com/microsoft/SkillOpt/pull/304) |
+| Tencent · WeKnora | [Close MCP SSE responses after HTTP errors · #3930](https://github.com/Tencent/WeKnora/pull/3930) |
+| OpenSandbox | [Preserve the first SSE event with a UTF-8 BOM · #2226](https://github.com/opensandbox-group/OpenSandbox/pull/2226) |
 
-**[SLM-in-SciPaper](https://github.com/KennyMcSimpson/SLM-in-SciPaper)**  
-Evidence-grounded scientific paper analysis, from an NLP pipeline to local browser inference with ONNX.
+[40 merged public PRs across 36 upstream repositories](https://github.com/search?q=author%3AKennyMcSimpson+is%3Apr+is%3Amerged+is%3Apublic+-user%3AKennyMcSimpson&type=pullrequests) · Snapshot: October 31, 2026.
 
-**[Agentic Observer workbench](https://github.com/KennyMcSimpson/gosim-agentic-observer)**  
-A local desktop workbench for GOSIM Agentic Observer public practice scenarios.
+---
 
-Also exploring [coding-agent collaboration](https://github.com/KennyMcSimpson/room-dev) (experimental) and [scene representations & test-time adaptation](https://kennymcsimpson.github.io/measurement-scene-state/) (research archive).
-
-## Open source
-
-I contribute focused bug fixes and regression tests. A few merged examples:
-
-- [simplejson](https://github.com/simplejson/simplejson/pull/397) — read UTF-8 files correctly in the command-line tool.
-- [pyee](https://github.com/jfhbrook/pyee/pull/223) — handle cancelled executor futures in completion callbacks.
-- [TypeScript JMESPath](https://github.com/jmespath-community/typescript-jmespath/pull/110) — keep empty strided slices empty.
-
-[Merged upstream contributions](https://github.com/pulls?q=is%3Apr+author%3AKennyMcSimpson+is%3Amerged+-user%3AKennyMcSimpson) · [Open upstream pull requests](https://github.com/pulls?q=is%3Apr+author%3AKennyMcSimpson+is%3Aopen+-user%3AKennyMcSimpson)
+*This corner of the web will grow with PI.*
