@@ -9,6 +9,8 @@
 
 我是 Kenny。写代码、做研究，也在搭一个让知识、工具与长期记忆彼此相连的工作环境。
 
+联系我：[kenny@kojoo.co](mailto:kenny@kojoo.co)
+
 ### 一个还在生长的 Ecosystem
 
 **Ecosystem** 把项目记忆、科研与独立评审、编码执行和工具连接串起来。**PI-Ecosystem** 是承载它们的桌面工作区，**Lyra** 是其中正在完善的管家与搭档。

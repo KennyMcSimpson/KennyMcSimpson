@@ -9,6 +9,8 @@
 
 Hi, I’m Kenny. I write code, do research, and build a place where knowledge, tools, and lasting context can work together.
 
+Email: [kenny@kojoo.co](mailto:kenny@kojoo.co)
+
 ### A little ecosystem, still growing
 
 **Ecosystem** connects project memory, research and independent review, coding, and tools. **PI-Ecosystem** is the desktop workspace bringing these pieces together. **Lyra** is the companion taking shape inside it.
